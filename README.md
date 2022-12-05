@@ -11,8 +11,6 @@ Documenting my journey in STEM. Have a look at what I have learned so far here!
 - ✉️  You can contact me at [appiahboaduprince@gmail.com](mailto:appiahboaduprince@gmail.com)
 - 🧠  I'm learning Embedded Technology
 
-![Alt text](coder.gif)
-
 ## Skills
 
 <p align="left">
