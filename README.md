@@ -1,18 +1,20 @@
-Prince
-=======================
-![starter](/path/to/image.png "Text to show on mouseover")
+# Prince
+
+![Alt text](coder.gif)
 
 I once beat alphazero but I wasn't recording.
 
 Documenting my journey in STEM. Have a look at what I have learned so far here!
 
-### Human Information
-*   🌍  I'm based in Nowhere and Everywhere!
-*   🖥️  See my portfolio at [Quantum Den](http://blackprince001.github.io/)
-*   ✉️  You can contact me at [appiahboaduprince@gmail.com](mailto:appiahboaduprince@gmail.com)
-*   🧠  I'm learning Embedded Technology
+## Human Information
 
-### Skills 
+* 🌍  I'm based in Nowhere and Everywhere!
+* 🖥️  See my portfolio at [Quantum Den](http://blackprince001.github.io/)
+* ✉️  You can contact me at [appiahboaduprince@gmail.com](mailto:appiahboaduprince@gmail.com)
+* 🧠  I'm learning Embedded Technology
+
+## Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -26,7 +28,7 @@ Documenting my journey in STEM. Have a look at what I have learned so far here!
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
-                    
-### Socials                  
-                 
+
+## Socials
+
 <p align="left"><a href="https://www.github.com/blackprince001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://blackprince.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prince-appiahkb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/blvckprinxe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
