@@ -1,15 +1,15 @@
 # Prince
 
-I once beat alphazero but I wasn't recording.
+Welcome!
 
-Documenting my journey in STEM. Have a look at what I have learned so far here!
+ᚹᚺᚨᛏ ᛁ ᚲᚨᚾᚾᛟᛏ ᚲᚱᛖᚨᛏᛖ ᛁ ᛞᛟ ᚾᛟᛏ ᚢᚾᛞᛖᚱᛊᛏᚨᚾᛞ.
 
 ## Human Information
 
 - 🌍  I'm based in Nowhere and Everywhere!
 - 🖥️  See my portfolio at [Quantum Den](http://blackprince001.github.io/)
 - ✉️  You can contact me at [appiahboaduprince@gmail.com](mailto:appiahboaduprince@gmail.com)
-- 🧠  I'm learning Embedded Technology
+- 🧠  I'm learning anything I can put my mind to.
 
 ## Skills
 
