@@ -30,3 +30,7 @@ Welcome!
 ## Socials
 
 <p align="left"><a href="https://www.github.com/blackprince001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://blackprince.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prince-appiahkb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/blvckprinxe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## Languages Over The Last Year
+
+<img src="https://wakatime.com/share/@d7d71380-93f2-4352-8eee-35c787a78c39/0f6bfbcb-4b9f-4924-9908-ab9ca6ff84fc.svg"></img>
