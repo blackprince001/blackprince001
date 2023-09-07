@@ -33,4 +33,4 @@ Welcome!
 
 ## Languages Over The Last Year
 
-<img src="https://wakatime.com/share/@d7d71380-93f2-4352-8eee-35c787a78c39/0f6bfbcb-4b9f-4924-9908-ab9ca6ff84fc.svg"></img>
+<figure><embed src="https://wakatime.com/share/@d7d71380-93f2-4352-8eee-35c787a78c39/85b01c86-d7e5-415b-8d83-5ef8e82022a4.svg"></embed></figure>
