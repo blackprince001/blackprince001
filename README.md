@@ -4,7 +4,7 @@
 
 **Human Information**
 
-- resume [here](https://read.cv/blackprince)
+- resume [here](https://blackprince001.github.io/resume)
 - portfolio [here](https://blackprince001.github.io/)
 - mini Blog [here](https://blackprince001.github.io/blog)
 - contact [Mail](mailto:appiahboaduprince@gmail.com)            
