@@ -4,9 +4,9 @@
 
 **Human Information**
 
-- portfolio [here](https://blackprince001.github.io/)
-- mini Blog [here](https://blackprince001.github.io/blog)
-- contact [Mail](mailto:appiahboaduprince@gmail.com)            
+- portfolio [here](https://pkab.work/)
+- mini Blog [here](https://pkab.work/blog)
+- contact [Mail](mailto:hello@pkab.work)            
 
 **Socials**
 
